@@ -1,0 +1,1 @@
+Most of this code is prototyping and experimenting with the limits of the various symbolic regression libraries out there. So far, SymbolicRegression.jl shows the most promise (github here: https://github.com/MilesCranmer/SymbolicRegression.jl). 
